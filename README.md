@@ -7,3 +7,8 @@ Belajar Git menggunakan Github
 - memahami perintah perintah pada Github
 - mempelajari membuat new repository
 - menambahkan READ.md pada repository
+
+16 Agustus 2023
+Belajar Git menggunakan Github
+- melanjutkan pembelajaran
+- belajar membuat repository
