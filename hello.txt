@@ -1,3 +1,5 @@
 
 hello my world
 
+Melakukan Update squash
+squash 1
