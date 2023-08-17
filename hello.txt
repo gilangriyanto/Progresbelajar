@@ -1,3 +1,11 @@
 
 hello my world
 
+Melakukan Update squash
+squash 1
+
+melakukan update squash
+squash 2
+
+melakukan update squash
+squash 3
